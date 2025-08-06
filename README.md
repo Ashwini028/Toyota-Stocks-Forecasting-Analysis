@@ -27,7 +27,7 @@ Integrated 30-day and 7-day moving averages
 Created an interactive Power BI dashboard to display predictions and trends                      
 
 **🔗 Links**                     
-🧾 Colab Notebook: [View Python Code](https://colab.research.google.com/drive/13Sr42y84dwEDg63d4LUTZuwocav6ydYZ?usp=sharing)                     
+🧾 Colab Notebook:                     
 
 **📌 Use Case**                       
 This dashboard can be used by investors, analysts, and financial institutions to monitor and predict stock price movements for better decision-making.                         
